@@ -42,7 +42,7 @@
 
 
 ## Contact
-Created by Amit Kumar[https://github.com/kramit1288] , Monika Mittal 
+Created by Amit Kumar (https://github.com/kramit1288) , Monika Mittal 
 
 
 <!-- Optional -->
